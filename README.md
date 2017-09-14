@@ -1,6 +1,6 @@
 # 2carrot5
 
-Submission for the cerner 2^5 yearly competition.
+Submissions for the cerner 2^5 yearly competition.
 
 # 2016
 ## Every90.sh
